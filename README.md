@@ -296,7 +296,7 @@ This structure ensures:
 | HTTP Method | Endpoint | Description |
 |------------|----------|-------------|
 | PATCH | `/api/posts/{postId}` | Update a published post |
-| DELETE |`/api/posts/{postId} | Archive a published post |
+| DELETE |`/api/posts/{postId}` | Archive a published post |
 | POST | `/api/posts/{postId}/restore` | Restore an archived post |
 
 ---
